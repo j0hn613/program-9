@@ -1,0 +1,5 @@
+f=open("D:\John-28\John python programs.txt",'r')
+print("file object is opened")
+print(f)
+data=f.read()
+print(data)
